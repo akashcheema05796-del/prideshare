@@ -31,12 +31,6 @@ Pride Share is a smart carpool matching platform built specifically for Purdue N
 - **⭐ Trust System**: Rating and verification badges
 - **💬 In-App Chat**: Coordinate rides seamlessly
 
-### For Presentation
-- **QR Code Ready**: Direct link to signup page
-- **Real-time Analytics**: Track signups and usage
-- **Mobile Responsive**: Works on all devices
-- **Professional UI**: PNW-branded colors (Gold & Black)
-
 ---
 
 ## 🛠️ Tech Stack
